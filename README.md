@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,22 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# Medication Tracker
+
+A React + TypeScript web app that allows users to log medications, dosage, and dates. Built with Firebase Authentication and Firestore for cloud data persistence.
+
+## Features
+- User authentication (Firebase Auth)
+- Add medications
+- View saved medications
+- Delete medications
+- User-scoped data storage
+
+## Tech Stack
+- React
+- TypeScript
+- Firebase Authentication
+- Firestore
+- Vite
+>>>>>>> be06a45a814f115f6d4ca05a940014ba0c0c5923
