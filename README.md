@@ -1,2 +1,17 @@
-# medication-tracker-react-firebase
-A full-stack medication tracking web app built with React, TypeScript, Firebase Authentication, and Firestore. Supports user login and persistent CRUD operations for medication records.
+# Medication Tracker
+
+A React + TypeScript web app that allows users to log medications, dosage, and dates. Built with Firebase Authentication and Firestore for cloud data persistence.
+
+## Features
+- User authentication (Firebase Auth)
+- Add medications
+- View saved medications
+- Delete medications
+- User-scoped data storage
+
+## Tech Stack
+- React
+- TypeScript
+- Firebase Authentication
+- Firestore
+- Vite
