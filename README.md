@@ -2,6 +2,14 @@
 
 A React + TypeScript web app that allows users to track medications, dosage, and dates. Built with Firebase Authentication and Firestore for persistent cloud data storage.
 
+## Live Demo
+
+https://medication-tracker-react-firebase.vercel.app/
+
+## Preview
+
+![Medication Tracker Screenshot](public\app-preview.png)
+
 ## Features
 
 - Email/password authentication
@@ -17,15 +25,3 @@ A React + TypeScript web app that allows users to track medications, dosage, and
 - Firebase Authentication
 - Firestore
 - Vite
-
-## Run locally
-
-1. Install dependencies:
-   npm install
-
-2. Start dev server:
-   npm run dev
-
-## Live Demo
-
-[Open the app] https://medication-tracker-react-firebase.vercel.app/
